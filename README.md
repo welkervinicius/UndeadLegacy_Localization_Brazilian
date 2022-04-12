@@ -21,4 +21,4 @@ Agradeço ao apoio de todos que vão testar essa versão para validar e ajudar a
 
 [1]: https://ul.subquake.com/ "Undead Legacy"
 [2]: https://github.com/welkervinicius/UndeadLegacy_Localization_Brazilian/issues "issues"
-[3]: https://github.com/welkervinicius/UndeadLegacy_Localization_Brazilian/releases/download/v0.3-beta.1/pre-release.zip "AQUI"
+[3]: https://github.com/welkervinicius/UndeadLegacy_Localization_Brazilian/releases/download/0.3.1-beta/pre-release.zip "AQUI"
