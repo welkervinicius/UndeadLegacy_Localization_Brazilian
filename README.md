@@ -13,3 +13,8 @@ Agradeço ao apoio de todos que vão testar essa versão para validar e ajudar a
 - A pasta Mods deve ficar como mostra a imagem abaixo:
 [![](https://i.imgur.com/mU9QxwT.png)](https://i.imgur.com/mU9QxwT.png)
 - Aproveite!
+
+
+[1]: https://ul.subquake.com/ "Undead Legacy"
+[2]: https://github.com/welkervinicius/UndeadLegacy_Localization_Brazilian/issues "issues"
+[3]: https://github.com/welkervinicius/UndeadLegacy_Localization_Brazilian/releases/download/v0.3-beta.1/pre-release.zip "AQUI"
