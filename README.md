@@ -10,7 +10,7 @@ Agradeço ao apoio de todos que vão testar essa versão para validar e ajudar a
 
 - Faça o download do arquivo de complemento do Mod clicando [AQUI][3];
 
-- Extraia o conteúdo do arquivo na pasta Mods do 7 days to die que você instalou o Undead Legacy;
+- Extraia o conteúdo do arquivo na pasta **Mods** do **7 Days to Die** que você instalou o **Undead Legacy**;
 
 - A pasta Mods deve ficar como mostra a imagem abaixo:
 
