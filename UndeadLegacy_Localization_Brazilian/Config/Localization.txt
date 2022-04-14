@@ -1,4 +1,4 @@
-﻿Key,brazilian
+Key,brazilian
 
 campfireActivate,"Fogueira Aberta"
 caffeineBuzz,"Superdose de cafeína"
@@ -5155,4 +5155,5 @@ ulmVehicleMotorcycle2Red,"Renegade (Motocicleta)"
 ulmVehicleMotorcycle2Cherry,"Renegade (Motocicleta)"
 ulmVehicleMotorcycle2AVariantHelper,"Renegade (Motocicleta)"
 ulmVehicleMotorcycle2BVariantHelper,"Renegade (Motocicleta)"
+ulmVehicleMotorcycle2CVariantHelper,"Renegade (Motocicleta)"
 ulmVehicleMotorcycle2CVariantHelper,"Renegade (Motocicleta)"
